@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name BESC-G2-master)(type KiCad)(uri ${KIPRJMOD}/BESC-G2-master.pretty)(options "")(descr ""))
+  (lib (name "HESC V1")(type KiCad)(uri "${KIPRJMOD}/HESC V1.pretty")(options "")(descr ""))
+)
